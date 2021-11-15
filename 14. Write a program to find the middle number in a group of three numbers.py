@@ -3,6 +3,8 @@ no2 = int(input('Enter 2nd number: ')) # 4
 no3 = int(input('Enter 3rd number: ')) # 6
 
 """
+Description:
+
 The logic in this question is that if we have 3 numbers like a,b and c so in this case if we say a is a
 middle number then there is a two conditions. first is that a is greater than b and less than c.
 the second condition is that a is less than b and greater than c. and in this case both conditions works

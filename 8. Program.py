@@ -4,6 +4,8 @@ Question: Write a program to accept electricity unit consumption and calculate t
 """
 
 """
+Description:
+
 5 rupee per unit.
 if user enters 200 units then it means 200*5 = 1000(total price), it is the price that you have to
 pay means 1000 Rs of elctricity is used.
