@@ -6,7 +6,7 @@ This function also executes the correct conditional statement for int values.
 """
 
 def isPalindrome(sTr):
-    if sTr[::-1] == sTr:
+    if sTr[-1::-1] == sTr:
         print('The String is a palindrome string.')
     else:
         print('The String is not palindrome. ')
